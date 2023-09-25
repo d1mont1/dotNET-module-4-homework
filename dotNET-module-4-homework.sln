@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotNET-module-4-homework", "dotNET-module-4-homework\dotNET-module-4-homework.csproj", "{8EE2E385-6CDB-44F2-ABFC-34CB53B8150D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cars", "Cars\Cars.csproj", "{22CDB31F-8D20-4969-BD88-3797D398F552}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EE2E385-6CDB-44F2-ABFC-34CB53B8150D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EE2E385-6CDB-44F2-ABFC-34CB53B8150D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EE2E385-6CDB-44F2-ABFC-34CB53B8150D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EE2E385-6CDB-44F2-ABFC-34CB53B8150D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22CDB31F-8D20-4969-BD88-3797D398F552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22CDB31F-8D20-4969-BD88-3797D398F552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22CDB31F-8D20-4969-BD88-3797D398F552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22CDB31F-8D20-4969-BD88-3797D398F552}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDD028D4-91EE-4F66-87B5-C0DAA4912A37}
+	EndGlobalSection
+EndGlobal
